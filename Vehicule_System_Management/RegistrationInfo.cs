@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vehicule_System_Management
 {
-    internal struct RegistrationInfo
+    public struct RegistrationInfo
     {
         public string RegistrationNumber {  get; set; }
         public DateTime RegistrationDate { get; set; }

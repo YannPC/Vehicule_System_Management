@@ -11,7 +11,7 @@ namespace Vehicule_System_Management.Vehicule
     // To fix, ensure only one 'Vehicule' class exists in this namespace.
     // If you need both, rename one of them or move it to a different namespace.
 
-    internal class Vehicule
+    public class Vehicule
     {
         private string model;
         private string make;
