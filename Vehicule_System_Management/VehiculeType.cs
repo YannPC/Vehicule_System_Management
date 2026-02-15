@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vehicule_System_Management
 {
-    internal enum VehiculeType
+    public enum VehiculeType
     {
         Car,
         Truck,
